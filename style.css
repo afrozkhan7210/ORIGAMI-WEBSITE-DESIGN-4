@@ -1,0 +1,94 @@
+.header{
+    background-color :#000000;
+    display : flex;
+    justify-content: space-between;
+}
+
+.header:hover{
+    opacity: 0.33;
+}
+
+.panda{
+    display : flex;
+    color:#000000
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:#000000
+}
+
+.chameleon{
+    display : flex;
+    color:#000000
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:#000000
+}
+
+.cicada{
+    display : flex;
+    color:#000000
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:#000000
+}
+
+.pigeon{
+    display : flex;
+    color:#000000
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:#000000
+}
+
+
+
+
+
+.camel{
+    display : flex;
+    color:#000000
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:#000000
+}
+
+    h1{
+        text-align: center;
+        margin-left: 30px;
+        color :  #adff2f
+}
+
+body{
+    background-image: linear-gradient(to right, 	#FF0000 , #0000FF);
+    color: whitesmoke;
+    font-family: Lato;
+}
+
+img:hover{
+    opacity: 0.33;
+    
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: black;
+}
+
